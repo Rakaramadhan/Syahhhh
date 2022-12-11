@@ -20,8 +20,8 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCeYAl_fba4MZSVULOXN6oqQ'
-global.ig = 'https://www.instagram.com/voltinfinite'
+global.youtube = 'https://youtube.com/foxxy offc'
+global.ig = 'https://www.instagram.com/raka.ramadhan180108'
 global.mygc = 'https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl'
 global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozuvZGz'
 global.linkgrupss = "   https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl"
@@ -40,17 +40,17 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = ' NOPANN!' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KhaTheDarkness' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = '[⫹⫺ - ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882110909971']
-global.premium = ['62882110909971']
-global.packname = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ϟ'
-global.ownerr = ['ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️']
+global.owner = ['62882006212045']
+global.premium = ['62882006212045']
+global.packname = 'KhaTheDarknessϟ'
+global.ownerr = ['KhaTheDarknessフ️']
 global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
-global.sessionName = './sessionye/paktzy'
+global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
